@@ -1,1 +1,1 @@
-"# python-abstract-factory-pattern" 
+python-abstract-factory-pattern
